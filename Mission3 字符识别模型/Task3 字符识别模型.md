@@ -23,7 +23,7 @@ CNN是一种层次模型，输入的是原始的像素数据。CNN通过卷积�
 
 ## 3.5 LeNet
 用于MNIST数据集最经典的CNN，由Yann LeCun提出，具有两个卷积+池化层及三个全连接层。
-![image](000000_labeled.png)
+![image](LeNet.jpg)
 
 ## 3.6 构建CNN
 构建模型代码如下：
